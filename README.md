@@ -1,4 +1,4 @@
-**VHDL-DIM_LEDS**
+**VHDL-SNAKE_LED**
 
 This is a hardware description for a 4x7-segment LED pattern in VHDL. The repo was originally created to store my school assignment but I also figured someone else might have a use for this.
 
